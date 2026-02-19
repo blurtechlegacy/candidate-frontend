@@ -1,5 +1,5 @@
 # Candidate
-[![Maintainability](https://api.codeclimate.com/v1/badges/ebc7d2c525c4cc3152a0/maintainability)](https://codeclimate.com/github/blurtech/candidate-frontend/maintainability) [![GitHub issues](https://img.shields.io/github/issues/blurtech/candidate-frontend.svg)](https://github.com/blurtech/candidate-frontend/issues)  [![HitCount](http://hits.dwyl.io/blurtech/candidate-frontend.svg)](http://hits.dwyl.io/blurtech/candidate-frontend)  
+[![Maintainability](https://qlty.sh/gh/blurtechlegacy/projects/candidate-frontend/maintainability.svg)](https://qlty.sh/gh/blurtechlegacy/projects/candidate-frontend) [![GitHub issues](https://img.shields.io/github/issues/blurtechlegacy/candidate-frontend.svg)](https://github.com/blurtechlegacy/candidate-frontend/issues)    
 Web-client part of the application Candidate created whithin the framework of the hackathon Digital Breakthrough
 
 ## Getting Started
